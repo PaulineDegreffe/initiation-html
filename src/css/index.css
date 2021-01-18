@@ -1,0 +1,13 @@
+/*commentaire*/
+
+h1 {
+    background-color: black;
+    color: white;
+}
+
+.policeMax {
+    font-size: 10rem;
+    color: green;
+    background-color: yellow;
+    padding: 1rem;
+}
